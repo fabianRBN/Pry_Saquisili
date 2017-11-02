@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546486175985",
+    "firebase_url": "https://saquisili-374ee.firebaseio.com",
+    "project_id": "saquisili-374ee",
+    "storage_bucket": "saquisili-374ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546486175985:android:d846c0dafc78c352",
+        "android_client_info": {
+          "package_name": "com.example.fabian.pry_saquisili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546486175985-35q17jum6dm4cq6c5iehiv0pu1nqkheg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fabian.pry_saquisili",
+            "certificate_hash": "93c1f6a8ec500814502e7a3bd9fc56c0d97bad1f"
+          }
+        },
+        {
+          "client_id": "546486175985-5unggp27h5ftr86n34ah641b8hhgj4b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIMDTm4Km2Szr2MLoZ5OOM3yONryHURs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546486175985-5unggp27h5ftr86n34ah641b8hhgj4b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

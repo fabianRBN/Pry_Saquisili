@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/noticias"
+            android:icon="@drawable/ic_location_city_black_24dp"
+            android:title="@string/app_noticias"/>
+        <item
+            android:id="@+id/imagenes"
+            android:icon="@drawable/ic_photo_library_black_24dp"
+            android:title="@string/app_imagenes"/>
+        <item
+            android:title="@string/app_galeria"
+            android:id="@+id/galeria"
+            android:icon="@drawable/ic_slideshow_black_24dp"/>
+        <item
+            android:id="@+id/herramientas"
+            android:title="@string/app_herramientas"
+            android:icon="@drawable/ic_build_black_24dp"/>
+
+    </group>
+
+    <item android:title="@string/app_contactos">
+        <menu>
+            <item
+                android:icon="@drawable/ic_share_black_24dp"
+                android:id="@+id/compartir"
+                android:title="@string/app_contactos"/>
+            <item
+                android:icon="@drawable/ic_send_black_24dp"
+                android:id="@+id/contacto"
+                android:title="@string/app_compartir"/>
+        </menu>
+    </item>
+</menu>

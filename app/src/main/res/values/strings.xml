@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pry_saquisili</string>
+    <string name="app_noticias">Noticias</string>
+    <string name="app_importar">Importar</string>
+    <string name="app_galeria">Galeria</string>
+    <string name="app_imagenes">Imagenes</string>
+    <string name="app_herramientas">Herramientas</string>
+    <string name="app_contactos">Contacto</string>
+    <string name="app_buscar">Buscar</string>
+    <string name="app_compartir">Compartir</string>
+
+    <string name="app_navdemo">Navigation</string>
+    <string name="app_gallery">Galeria</string>
+    <string name="app_fileimport">archivo</string>
+    <string name="app_slider">slide</string>
+    <string name="app_settings">Settings</string>
+
+    <string name="action_settings">settings</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
